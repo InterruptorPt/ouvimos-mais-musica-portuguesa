@@ -1,4 +1,16 @@
 # Estamos a ouvir mais música portuguesa?
 
-Este repositório contém o código desenvolvido para a série do Interruptor.
+Código desenvolvido para a série do Interruptor. Está escrito em Python3.
 
+## Requerimentos:
+
+- pandas
+- tqdm
+- requests
+- BeautifulSoup
+- time
+- numpy as np
+- scipy
+- seaborn
+- matplotlib
+- sklearn
