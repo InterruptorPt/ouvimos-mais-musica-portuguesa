@@ -1,6 +1,12 @@
 # Estamos a ouvir mais música portuguesa?
 
-Código desenvolvido para a série do Interruptor. Está escrito em Python3.
+Este repositório será actualizado à medida que os artigos da série forem sendo publicados. Está escrito em Python3.
+
+
+## Artigos/pastas
+
+- [Jogar à tabela para chegar mais longe](https://interruptor.pt/artigos/jogar-a-tabela-chegar-mais-longe) - [código](ouvimos-mais-musica-portuguesa/01_tabelas)
+
 
 ## Requerimentos:
 
