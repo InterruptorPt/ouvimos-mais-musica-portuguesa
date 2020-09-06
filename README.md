@@ -20,3 +20,7 @@ Este repositório será actualizado à medida que os artigos da série forem sen
 - seaborn
 - matplotlib
 - sklearn
+
+## Licença
+
+O código é partilhado sob uma licença  [GNU GPL-3.0](https://github.com/InterruptorPt/pessoa/blob/master/LICENSE).
