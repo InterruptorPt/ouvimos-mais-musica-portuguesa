@@ -5,7 +5,7 @@ Este repositório será actualizado à medida que os artigos da série forem sen
 
 ## Artigos/pastas
 
-- [Jogar à tabela para chegar mais longe](https://interruptor.pt/artigos/jogar-a-tabela-chegar-mais-longe) - [código](ouvimos-mais-musica-portuguesa/01_tabelas)
+- [Jogar à tabela para chegar mais longe](https://interruptor.pt/artigos/jogar-a-tabela-chegar-mais-longe) - [código](01_tabelas)
 
 
 ## Requisitos
