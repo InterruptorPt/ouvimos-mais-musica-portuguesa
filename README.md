@@ -7,8 +7,10 @@ Este repositório será actualizado à medida que os artigos da série forem sen
 
 - [Jogar à tabela para chegar mais longe](https://interruptor.pt/artigos/jogar-a-tabela-chegar-mais-longe) - [código](ouvimos-mais-musica-portuguesa/01_tabelas)
 
+- [Os discos que continuamos a girar](https://interruptor.pt/artigos/os-discos-que-continuamos-a-girar) - [código](ouvimos-mais-musica-portuguesa/02_discogs_streaming)
 
-## Requerimentos:
+
+## Requisitos:
 
 - pandas
 - tqdm
@@ -24,3 +26,5 @@ Este repositório será actualizado à medida que os artigos da série forem sen
 ## Licença
 
 O código é partilhado sob uma licença  [GNU GPL-3.0](https://github.com/InterruptorPt/pessoa/blob/master/LICENSE).
+
+Utiliza código desenvolvido por [Jeff Heaton](https://github.com/jeffheaton/) disponibilizado sob uma licença [Apache 2.0](http://www.apache.org/licenses/).
