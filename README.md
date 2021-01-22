@@ -17,7 +17,7 @@ Este repositório será actualizado à medida que os artigos da série forem sen
 - requests
 - BeautifulSoup
 - time
-- numpy as np
+- numpy
 - scipy
 - seaborn
 - matplotlib
